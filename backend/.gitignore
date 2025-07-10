@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.noseids
+coverage.xml
+*.cover
+.cache
+.pytest_cache/
+
+# SQLite / PostgreSQL dumps or temp files
+*.db
+*.sql~
+*.sqlite3
+
+# Logs
+*.log
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Docker
+*.pid
+*.tar
+.dockerignore
+docker-compose.override.yml
+
+# VS Code / JetBrains
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
