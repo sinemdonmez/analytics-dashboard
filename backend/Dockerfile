@@ -1,5 +1,8 @@
 FROM python:3.10
 
+ENV PYTHONPATH=/app/src
+
+
 # Install PostgreSQL client so we get `pg_isready`
 RUN apt-get update && apt-get install -y postgresql-client
 
