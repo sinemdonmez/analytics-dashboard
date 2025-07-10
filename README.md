@@ -5,6 +5,11 @@ A full-stack game analytics dashboard that tracks and visualizes player behavior
 Built with **Flask**, **PostgreSQL**, and **React**, and fully orchestrated using **Docker Compose**.
 
 ---
+<p align="center">
+  <img src="./analyticsdashboard.gif" alt="Dashboard Demo" width="80%">
+</p>
+<p align="center"><i>A quick preview of the dashboard in action — visualizing player sessions, purchases, and level completions using simulated game data. (Although the gif is very low in quality)</i></p>
+
 
 ## Key Features
 
